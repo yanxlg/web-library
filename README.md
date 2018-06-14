@@ -1,3 +1,4 @@
 ## polyfills
 * requestAnimationFrame
 * cancelAnimationFrame
+* uuid
